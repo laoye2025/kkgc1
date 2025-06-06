@@ -32,7 +32,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "kkgc1try"         # 用户名
-UUID = ""                     # UUID，留空则自动生成
+UUID = "b955286c-0248-4438-8f55-471f0094a0a2"                     # UUID，留空则自动生成
 PORT = 33441                   # Vmess端口，留空或0则自动生成
 DOMAIN = "gc1.ffree.nyc.mn"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiOWVjOTYyOTZjMjFiNTNmMTA1ZmI0YTYwMzE4YmI1ZTgiLCJ0IjoiYjZiMmNlNGEtNWIyNC00YTg3LTg5MGMtZTU4MzZmNjM5YzI2IiwicyI6IlpqQTVZVEUwT0dNdFpHTTBNaTAwTXpRMUxXSmhOVFl0TVRNM00yVmtNamhsWlRJdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
